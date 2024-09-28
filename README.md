@@ -37,9 +37,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Configuration
 
-1. Edit `token.txt` file in the project root directory and add your Coub API tokens, one per line.
-
-2. Edit `data.txt` file in the project root directory and add your Coub user data, one entry per line.
+1. Edit `data.txt` file in the project root directory and add your Coub user data, one entry per line.
 
 ## Usage
 
